@@ -1,0 +1,15 @@
+# PyInstaller の生成物（exe・ビルド中間物）
+/build/
+/dist/
+*.spec
+
+# Python のキャッシュ
+__pycache__/
+*.pyc
+
+# 大きいメディア（GitHubには載せない：動画・開発録画）
+# ファイル自体は手元に残ります
+ゲームにつまずいたとき用のプレイ動画/
+*.mp4
+*.mov
+*.webm
